@@ -14,8 +14,10 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MandaNgrh)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandaNgrh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandaNgrh&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MandaNgrh&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaNgrh&layout=compact&theme=radical" width="49%" />
+</div>
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=MandaNgrh&style=flat-square&color=blue)
