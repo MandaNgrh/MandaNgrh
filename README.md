@@ -1,56 +1,18 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hi there, I'm MandaNgrh!
 
-Welcome to my GitHub profile! I'm passionate about **[your expertise or interests, e.g., software development, web design, etc.]**, and I love working on innovative projects.  
+## 🚀 Technologies & Tools
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🔭 **Currently working on**:  
-- [Your Project Name](#)  
-- [Another Project Name](#)  
-
-🌱 **Learning focus**:  
-- [Skill/Technology 1]  
-- [Skill/Technology 2]  
-
-💬 **Ask me about**:  
-- [Topic 1]  
-- [Topic 2]  
-
-📫 **How to reach me**:  
-- Email: [your email]  
-- LinkedIn: [your LinkedIn profile]  
-- Portfolio: [your portfolio link]
-
----
-
-## 🔧 Tools & Technologies I Use
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-
----
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MandaNgrh)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MandaNgrh)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MandaNgrh)
 
 ## 📈 GitHub Stats
-
 | ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandaNgrh&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandaNgrh&layout=compact&theme=radical) |
 |:-----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
-
-
----
-
-## 🚀 My Projects
-### Featured Projects:
-- 🌟 [Project 1 Name](https://github.com/your-username/project-1): Short description about the project.  
-- 🌟 [Project 2 Name](https://github.com/your-username/project-2): Short description about the project.
-
----
-
-## ✨ Fun Facts
-- 🎨 I enjoy [hobby or fun fact, e.g., painting, hiking, gaming].  
-- 🌍 I’ve contributed to open-source projects globally!  
-
----
-
-Thank you for stopping by! 😄  
-Let's build something amazing together.  
-Feel free to explore my repositories and reach out for collaboration! 🚀
