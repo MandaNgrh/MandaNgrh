@@ -16,7 +16,7 @@
 ## 📈 GitHub Stats
 <div style="display: flex; gap: 20px; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=MandaNgrh&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaNgrh&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaNgrh&layout=compact&theme=radical" width="45%" />
 </div>
 
 ## 👀 Profile Views
